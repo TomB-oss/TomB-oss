@@ -1,5 +1,5 @@
 ### Hi there, my name is Tom ❤️
-### <center>I'm a Developper and a Sport lover </centerb>
+## <center>I'm a Developper and a Sport lover </centerb>
 - I'm currently a student at Epitech
 - Learning about everything I can
 
