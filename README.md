@@ -1,5 +1,5 @@
 ### Hi there, my name is Tom ⚡️
-## <center> Developper and Baller </centerb>
+## <center> Developper and Sportsman </centerb>
 - Currently a student at Epitech
 - Looking for knowledges
 - A whole lot of curiosity
